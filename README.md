@@ -102,10 +102,6 @@ brew install uv
 * **命令** 以 JSON 物件的形式發送，包含 `type` 和可選的 `params`
 * **回應** 以 JSON 物件的形式返回，包含 `status` 及 `result` 或 `message`
 
-## 貢獻方式
-
-歡迎貢獻！請隨時提交 Pull Request。
-
 ## 授權
 
 MIT 授權許可證
