@@ -2,7 +2,8 @@
 
 SketchupMCP 透過模型上下文協議（MCP）將 Sketchup 連接到 Claude AI，使 Claude 能夠直接與 Sketchup 互動和控制。這項整合允許使用提示輔助 3D 建模、場景創建和操作 Sketchup。
 
-特別感謝 [Blender MCP](https://github.com/ahujasid/blender-mcp) 提供的靈感與架構。
+特別感謝 [mhyrr/sketchup-mcp](https://github.com/mhyrr/sketchup-mcp) 提供的架構。
+我們對其原生版本(mhyrr/sketchup-mcp)進行了繁體中文化及部份功能優化與調整。
 
 ## 功能
 
