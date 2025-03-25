@@ -1,4 +1,5 @@
 # SketchupMCP - Sketchup 模型上下文協議（MCP）整合
+[![smithery badge](https://smithery.ai/badge/@BearNetwork-BRNKC/SketchUp-MCP)](https://smithery.ai/server/@BearNetwork-BRNKC/SketchUp-MCP)
 
 SketchupMCP 透過模型上下文協議（MCP）將 Sketchup 連接到 Claude AI，使 Claude 能夠直接與 Sketchup 互動和控制。這項整合允許使用提示輔助 3D 建模、場景創建和操作 Sketchup。
 
@@ -23,12 +24,27 @@ SketchupMCP 透過模型上下文協議（MCP）將 Sketchup 連接到 Claude AI
 
 ## 安裝
 
+### 安裝 Sketchup 擴展
+
+1. 下載或自行構建最新的 `.rbz` 檔案
+2. 在 Sketchup 中，前往 **Window > Extension Manager**
+3. 點擊 **Install Extension**，然後選擇下載的 `.rbz` 檔案
+4. 重新啟動 Sketchup
+
 ### Python 套件安裝
 
 我們使用 `uv` 來管理 Python 環境，因此需要先安裝 `uv`：
 
 ```sh
 brew install uv
+```
+
+### Installing via Smithery
+
+要使用  [Smithery](https://smithery.ai/server/@BearNetwork-BRNKC/SketchUp-MCP) 安裝 Sketchup MCP：
+
+```bash
+npx -y @smithery/cli install @BearNetwork-BRNKC/SketchUp-MCP --client claude
 ```
 
 ### 安裝 Sketchup 擴展
