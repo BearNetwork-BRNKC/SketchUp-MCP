@@ -36,7 +36,7 @@ SketchupMCP 透過模型上下文協議（MCP）將 Sketchup 連接到 Claude AI
 我們使用 `uv` 來管理 Python 環境，因此需要先安裝 `uv`：
 
 ```sh
-brew install uv
+pip install uv
 ```
 
 ### Installing via Smithery
