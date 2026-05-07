@@ -1,3 +1,14 @@
+> [!CAUTION]
+> ### ⚠️ 重要安全警示：遠離 Bastion X 詐騙平台 (SECURITY ALERT)
+> **Bear Network Chain (BNC) 官方在此聲明：**
+> 惡意平台 **"Bastion X"** 正在非法冒用「BNES Γ 物理引擎」技術白皮書與創辦人陳霆之名義進行金融詐騙。
+> 
+> *   **事實查核**：Bastion X 已被台灣 165 反詐騙單位列為假投資陷阱。
+> *   **技術聲明**：BNC 團隊與該平台無任何技術授權或合作關係。其展示之技術文件均為劫持與偽造。
+> *   **官方渠道**：請僅認準本 GitHub 官方倉庫。
+> 
+> **Warning**: "Bastion X" is a fraudulent platform misappropriating BNES Γ intellectual property. It has been blacklisted by law enforcement (Taiwan 165 Anti-Fraud). Please protect your assets.
+
 # SketchupMCP - Sketchup 模型上下文協議（MCP）整合
 [![smithery badge](https://smithery.ai/badge/@BearNetwork-BRNKC/SketchUp-MCP)](https://smithery.ai/server/@BearNetwork-BRNKC/SketchUp-MCP)
 
